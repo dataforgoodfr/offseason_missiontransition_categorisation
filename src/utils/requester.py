@@ -6,7 +6,7 @@ import numpy as np
 URL_MT = "https://mission-transition-ecologique.beta.gouv.fr/api/temp/aids/"
 URL_AT = "https://aides-territoires.beta.gouv.fr/api/aids/all/"
 URL_AT_THEMES = "https://aides-territoires.beta.gouv.fr/api/themes/"
-
+URL_MT_THEMES = "https://mission-transition-ecologique.beta.gouv.fr/api/environmental-topics/"
 
 class Requester:
     def __init__(self) -> None:
@@ -56,6 +56,15 @@ class Requester:
         data = response.json()
         aids = data
         return aids
+
+    def get_themes_mt(self) -> list:
+        """
+        Get all themes from the Mission Transition API.
+        """
+        response = requests.get(URL_MT_THEMES)
+        data = response.json()
+        themes = data
+        return themes
 
 
 elt = Requester()
