@@ -132,4 +132,6 @@ dmypy.json
 *.pth, *.pyi, *.bin, *.ckpt
 notebooks/logs/
 notebooks/results/
-./outputs/model/
+outputs/model/
+*.pkl
+
