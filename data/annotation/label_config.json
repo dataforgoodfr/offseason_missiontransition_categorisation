@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "text": "Ville et immobilier durable",
+    "prefixKey": null,
+    "suffixKey": "v",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "text": "Gestion des déchets et économie circulaire",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3,
+    "text": "Achat et logistique durable",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4,
+    "text": "Mobilité durable",
+    "prefixKey": null,
+    "suffixKey": "m",
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "Production et gestion énergétique",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "Préservation des écosystème et des ressources",
+    "prefixKey": null,
+    "suffixKey": "r",
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 7,
+    "text": "Innovations vertes",
+    "prefixKey": null,
+    "suffixKey": "i",
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 37,
+    "text": "Tourisme",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 38,
+    "text": "Acquisition et extension des locaux",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 39,
+    "text": "Réhabilitation logements et sites industriels",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 40,
+    "text": "Aménagement et restauration d'infrastructures",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 41,
+    "text": "Aménagement espaces verts",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 42,
+    "text": "Agriculture urbaine",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 43,
+    "text": "Animation, développement économique et social",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 44,
+    "text": "Réduction du gaspillage",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 45,
+    "text": "Sensibilisation sur les consommations",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 46,
+    "text": "Développement des filières de recyclage",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 47,
+    "text": "Développement des circuits courts",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 48,
+    "text": "Traitement et valorisation des biodéchets",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 49,
+    "text": "Tri des déchets, recyclage, réemploi et réparation",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 50,
+    "text": "Incorporation de produits recyclés",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 51,
+    "text": "Développement du ferroviaire",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 52,
+    "text": "Logistique de proximité",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 53,
+    "text": "Infrastructures de transport et logistique",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 54,
+    "text": "Achats matériel et équipements responsables",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 55,
+    "text": "Développement du covoiturage et autopartage",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 56,
+    "text": "Achat et location de véhicules peu polluants",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 57,
+    "text": "Infrastructures de recharge pour véhicule électrique",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 58,
+    "text": "Mobilité douce",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 59,
+    "text": "Energies renouvelables",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 60,
+    "text": "Réseaux de chaleur et récupération de chaleur",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61,
+    "text": "Stockage de l'énergie",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 62,
+    "text": "Développer le réseau de distribution d'énergie",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 63,
+    "text": "Bilan énergétique et rénovation",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 64,
+    "text": "Réduction des pesticides et pollutions",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 65,
+    "text": "Gestion de l'eau et milieux aquatiques",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 66,
+    "text": "Performance environnementale de l'alimentation",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 67,
+    "text": "Biodiversité et bien-être animal",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 68,
+    "text": "Amélioration de la qualité de l'air",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 69,
+    "text": "Réduction des consommations de matières premières",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 70,
+    "text": "Aide au développement de la filière bois",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 71,
+    "text": "Numérique responsable",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72,
+    "text": "Recherche, développement et innovation",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 73,
+    "text": "Démarche d'éco-conception",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 74,
+    "text": "Digitalisation des commerces et artisans",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 75,
+    "text": "Efficacité énergétique",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 76,
+    "text": "Mobilité hydrogène",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 78,
+    "text": "Hors scope entreprise et/ou TEE",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#9F0500",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 79,
+    "text": "Soutien aux filières agricoles, de l'élevage et de la pèche",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  }
+]
