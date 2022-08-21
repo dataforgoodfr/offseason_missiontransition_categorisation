@@ -1,0 +1,40 @@
+* analyse des erreurs du basline model avec les annotations V3
+
+** Mobilité (35 exemples):
+   termes : ['véhicule','mobilité', 'voiture', 'ferroviaire']
+   recall: 0.77, precision: 0.41
+   attention bug API ?
+   
+*** faux négatifs 8:
+     - bug API (corrigé)
+     - thème était induit par description très générale de l'aide : 76, 148, 149, 294,
+       295, 390
+     - erreur étiquette ? 165 (motorisation électrique)
+*** faux positifs:
+     - sujet marginal ("mobilité douce" dans une aide sur les biodéchets): 42
+     - erreur étiquette (ou bug API) ? : 45, 70, 71, 72, 73, 432, ...
+     - terme pas assez caractéristique "véhicule" : 69
+
+   
+** Ressources humaines (11 exemples)
+    termes: ["sensibilisation", "sensibiliser", "informer", "recruter", "recrutement",
+             "coaching", "formation", "former", "formateur"]
+    recall: 0.9 ,precision: 0.17
+
+*** faux négatifs (1):
+     - erreur étiquetage: 35
+     
+*** faux positifs (46):
+     - erreur étiquetage (ou thème trop flou): 7, 27, 40, 43, ...
+       faux positifs pas grave (car ces aides comportent bien une composante sensibilisation). Mieux préciser les guidelines de l'annotation de ce thème ? 
+
+** Secteur bois
+    termes: ["bois", "agroforesterie", "boisé", "forêt", "peuplier"]
+    recall: 0.8, precision: 0.48
+*** faux négatifs (3)
+     - filière bois-énergie mal tokénisée à cause du tiret : 26
+     - bug tokenizer : 442 (Forêt avec majuscule)
+     - erreur étiquetage ? 446 (truffière)
+*** faux positifs (15)
+     Globalement les faux positifs viennent du mot "bois" très utilisé même si les entreprises ciblées n'appartiennent pas à la fillière bois. Par exemple quand l'aide soutient l'utilisation de bois de chauffage.
+     
